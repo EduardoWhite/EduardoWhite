@@ -5,14 +5,14 @@
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" border="0"/></a>
 <br/>
 
-| Materia               | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
-|-----------------------|--------------------------------|:-------:|:-------:|:---------:|:-------:|:-------:|
-| Taller de inves. I    | Jose Sergio Magdalena Palencia | 1pm-2pm | 1pm-2pm |  1pm-2pm  | 1pm-2pm |  ****** |
-| Programación web      | Josue de Jesus Parra Galviz    | 5pm-6pm | 5pm-6pm |  5pm-6pm  | 5pm-6pm | 5pm-6pm |
-| Taller de sist. op.   | Carlos Hurtado Sanchez         | 3pm-4pm | 3pm-4pm |  3pm-4pm  | 3pm-4pm |  ****** |
-| Lenguajes de interfaz | Rene Solis Reyes               | 2pm-3pm | 2pm-3pm |  2pm-3pm  | 2pm-3pm |  ****** |
-| Leguajes y automatas  | Luis Alfonso Gaxiola Vega      | 4pm-5pm | 4pm-5pm |  4pm-5pm  | 4pm-5pm | 4pm-5pm |
-| Redes de computadoras | Paolo Sergio Robles Gonzalez   | 6pm-7pm | 6pm-7pm |  6pm-7pm  | 6pm-7pm | 6pm-7pm |
+| Materia                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
+|----------------------------------|--------------------------------|:-------:|:-------:|:---------:|:-------:|:-------:|
+| Inteligencia artificial          | Arnuflo Alaniz Garza           | 2pm-3pm | 2pm-3pm |  2pm-3pm  | 2pm-3pm | ******* |
+| Gestion de proyectos software    | Trinidad Castro Villa          | 3pm-4pm | 3pm-4pm |  3pm-4pm  | 3pm-4pm | 2pm-4pm |
+| Sistemas programables            | Rene Solis Reyes               | 4pm-5pm | 4pm-5pm |  4pm-5pm  | 4pm-5pm | ******* |
+| Taller de investigacion II       | Jose Sergio Magdaleno Palencia | 5pm-6pm | 5pm-6pm |  5pm-6pm  | 5pm-6pm | ******* |
+| Leguajes y automatas II          | Luis Alfonso Gaxiola Vega      | 6pm-7pm | 6pm-7pm |  6pm-7pm  | 6pm-7pm | ******* |
+| Plan de negocios                 | Maria Paulina Luna Alvares     | 7pm-8pm | 7pm-8pm |  7pm-8pm  | 7pm-8pm | 7pm-8pm |
 
 # Un poco sobre mí
 - <img src="https://scontent.ftij1-1.fna.fbcdn.net/v/t1.0-9/cp0/120010373_1205087769863477_4637098112143242310_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_eui2=AeHegwCMD3PA0OAZ9pxDIim5r3VbGcOHEiqvdVsZw4cSKjEUakqDhuKCN5dIHBsM1bv2Z3_ubADnEaI3gPGJqUYS&_nc_ohc=beqBpzw2MOwAX8pwtq9&_nc_ht=scontent.ftij1-1.fna&oh=a771b244e0cf792a0fae86cf76b524f1&oe=5F941D40"/> *Actualmente estudio la ingenieria en sistemas computacionales.*
